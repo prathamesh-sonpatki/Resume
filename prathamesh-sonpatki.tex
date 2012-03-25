@@ -6,13 +6,22 @@
 %%%%%%
 
 \documentclass[11pt,a4paper]{moderncv}
-\moderncvtheme[blue]{classic}
 
-\usepackage[utf8]{inputenc} % character encoding
-\usepackage[scale=0.8]{geometry} % adjust the page margins
 
-\AtBeginDocument{\setlength{\maketitlenamewidth}{10cm}}
-\AtBeginDocument{\recomputelengths}                     % required when changes are made to page layout lengths
+% moderncv themes
+%\moderncvtheme[blue]{casual}                 % optional argument are 'blue' (default), 'orange', 'red', 'green', 'grey' and 'roman' (for roman fonts, instead of sans serif fonts)
+\moderncvtheme[orange]{classic}                % idem
+
+% character encoding
+\usepackage[utf8]{inputenc}                   % replace by the encoding you are using
+% customizing link colors and formatting
+\hypersetup{colorlinks=true}
+%\hypersetup{a4paper=true}
+\usepackage{color}
+\definecolor{iorange}{RGB}{243,110,36}
+% adjust the page margins
+\usepackage[scale=0.8]{geometry}
+\recomputelengths                             % required when changes are made to page layout lengths
 
 % personal data
 \firstname{Prathamesh}
@@ -21,7 +30,9 @@
 \address{B 12 Shriram Residency, Suvarnabaug Colony, Kothrud, Pune}{Maharashtra, India}
 \mobile{+91-9422033142}
 \email{csonpatki@gmail.com}
-\homepage{http://prathamesh-sonpatki.github.com}
+\usepackage{textcomp}
+%\homepage {prathamesh-sonpatki.github.com}
+\extrainfo{Blog: hey}
 \extrainfo{IRC Nick: cha1tanya}
 %\photo[54pt]{img.jpeg}                         % '64pt' is the height the picture must be resized to and 'picture' is the name of the picture file;
 
@@ -38,7 +49,8 @@
 
 \section{Technical skills}
 \cvcomputer
-{\textbf{Operating Systems}}{Gnu/Linux(Debian,Fedora,Ubuntu), Windows}
+{\textbf{Operating Systems}}{Gnu/Linux
+\\(Debian,Fedora,Ubuntu), \\Windows}
 {\textbf{Programming Languages}}{ C, C++, Java, Ruby, HTML/CSS, JavaScript }
 \cvcomputer
 {\textbf{Development Tools}}{Emacs, Vim, Git, Bash, Netbeans}
@@ -84,8 +96,8 @@
             {
              Organized MiniDebian Conference in VIT \\
              from 13th 2011 To 15th August 2011.    \\
-             http://wiki.debian.org/DebianIndia/MiniDebConf2011, \\
-             http://is.gd/minidebconfpune.
+             \url{http://wiki.debian.org/DebianIndia/MiniDebConf2011}, \\
+             \url{http://is.gd/minidebconfpune}.
            }
 \cventry
            {July 2011 -- present}
@@ -96,28 +108,28 @@
            {
             Member of Diaspora Community , Helped in creating
             awareness about Diaspora. 
-           }
+           }\\\\\\\\\\
 
 
 
-\subsection{Open Source Contributions}
+%\subsection{Open Source Contributions}
 
-\cventry
-         {}
-         {Diaspora}
-         {Contributor}
-         {}
-         {http://github.com/diaspora/diaspora/pull/2887}
-         {
-          Sent a merge request for Diaspora -the distributed social
-          networking website developed in Ruby on Rails. }
+%\cventry
+ %        {}
+  %       {Diaspora}
+   %      {Contributor}
+    %     {}
+     %     {http://github.com/diaspora/diaspora/pull/2887} 
+          
+      %    {Sent a merge request for Diaspora -the distributed social
+       %   networking website developed in Ruby on Rails. }
 
 
 % --------------------------------------
 % PROJECTS
 % --------------------------------------
 
-%\pagebreak
+
 \section{Projects}
 
 \cvlistitem
