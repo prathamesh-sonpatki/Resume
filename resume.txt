@@ -1,22 +1,22 @@
-Prathamesh Sonpatki
-
- ** Curriculum Vitae
-
- * Address - 
+﻿ Prathamesh Sonpatki				* Address - 
  
- B 12 Shriram Residency, Suvarnabaug
- Colony, Kothrud, Pune Maharashtra, India
+ 							B 12 Shriram Residency, Suvarnabaug
+ 							Colony, Kothrud, Pune Maharashtra
+ 						     
+                                         * Contact - 
  
- * Contact - 
- 
- +91- 9422033142
- csonpatki@gmail.com
- IRC Nick: cha1tanya
+							+91- 9422033142
+ 							csonpatki@gmail.com
+ 							IRC Nick: cha1tanya
 
  * Education - 
   
  Completed Bachelors degree in Computer Science and Engineering   
  from Vishwakarma Institute Of Technology Pune.
+
+ Completed Online Coursed from udacity.com CS101 Introduction to Computer  
+ Science by David Evans and CS212 Design of Computer Programs by Peter Norwig.
+ Also taking several courses from coursera.com
 
  * Technical skills -
 
@@ -108,5 +108,5 @@ Prathamesh Sonpatki
  * Interests and Hobbies - 
 
  An avid reader on technology, fiction and non- fiction books.
-
+ Cricket Fan
 
