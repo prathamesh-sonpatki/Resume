@@ -1,0 +1,112 @@
+Prathamesh Sonpatki
+
+ ** Curriculum Vitae
+
+ * Address - 
+ 
+ B 12 Shriram Residency, Suvarnabaug
+ Colony, Kothrud, Pune Maharashtra, India
+ 
+ * Contact - 
+ 
+ +91- 9422033142
+ csonpatki@gmail.com
+ IRC Nick: cha1tanya
+
+ * Education - 
+  
+ Completed Bachelors degree in Computer Science and Engineering   
+ from Vishwakarma Institute Of Technology Pune.
+
+ * Technical skills -
+
+   Gnu/ Linux( Debian, Fedora, Ubuntu),
+   Windows
+   Emacs, Vim, Git, Bash, Netbeans
+ 
+ * Programming Languages - C, HTML, JavaScript, C++, Java, Ruby
+ 
+ * Frameworks - Ruby on Rails, JSP
+ 
+ * Software Packages - MySQL,Octopress,PostgreSQL,LaTeX,
+
+ * Work Experience and Positions - 
+
+ 1) C42 Summer Of Code Student.
+    Selected for C42 Summer Of Code which is similar to GSoC.
+    Hacking JRuby parser.
+
+ 2) RubyConfIndia, Volunteer.
+    Volunteer in RubyConfIndia 2012.
+    RubyConfIndia is Indian edition of the international Ruby 
+    programming language conference.
+
+ 3) Melange 2012 Technical Events, Co Ordinator, VIT.
+    Co-Ordinated Cybernetics( CS/ IT) Events in Technical Fest 
+    Melange.
+
+ 4) MiniDebConf Pune, Organizer.
+    Organized MiniDebian Conference in VIT from 13th 2011 To 15th 
+    August 2011.
+    http://wiki.debian.org/DebianIndia/MiniDebConf2011, 
+    http://is.gd/mindebconfpune.
+
+ * Projects - 
+ 
+ 1) JRuby Implementing Beaver parser in JRuby
+    JRuby uses JAY Pasrser. This project aims to test Bever Parser
+    and analyze its performance.
+    Part of C42 Summer Of Code.
+
+ 2) Job Scheduling in networked manufacturing using Game Theory and  
+    Genetic Algorithms
+    A Java project to solve np-complete job scheduling problem
+    in networked manufacturing using game theory and genetic 
+    algorithms.
+    This is an ongoing project which has to be submitted as the 
+    8th semester project( Major Project)
+    Code- http://github.com/prathamesh-sonpatki/JobScheduler
+
+ 3) CAthlon
+ 
+    A Multiple Choice Questions app for programming competitions.
+    Developed using JSP, HTML, CSS, MySql and Ruby.
+    Used in Melange 2012 CAthlon( C Programming Event).
+    Code- http://github.com/prathamesh-sonpatki/CAthlon
+
+ 4) Online Judge
+    
+    Online Judge for programming competitions inspired from
+    http://spoj.pl and http://codechef.com
+    Developed in JSP, HTML, CSS, MS Access.
+    Submitted in 6th Semester( Minor Project).
+
+ * Talks given and Workshops conducted - 
+
+ 1) Introduction to Ruby, VIT.
+
+    Presented an introductory talk on Ruby accompanied with a hands-
+    on workshop on basics of Ruby for about 35 College students.
+    Presentation- http://speakerdeck.com/u/chaitanya/p/introduction-
+    to-ruby-vit-pune
+
+ * Conferences Attended - 
+ 
+ 1) March 2012- RubyConfIndia
+
+ 2) February 2012- Gnunify
+
+ 3) November 2011- Fudcon
+
+ 4) October 2011- Fedora Activity Day At Red Hat Office Pune
+
+ 5) September 2011- Pycon
+
+ 6) August 2011- MiniDebConf
+
+
+ * Interests and Hobbies - 
+
+ An avid reader on technology, fiction and non- fiction books.
+
+
